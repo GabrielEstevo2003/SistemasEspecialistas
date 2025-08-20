@@ -1,0 +1,1 @@
+Neste repositório possui um PDF com a discussão sobre duas questões importantes que abordam os sistemas especialistas, e também o exemplo se um simples projeto para mostrar um pouco do seu funcionamento!
